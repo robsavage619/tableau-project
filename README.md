@@ -8,6 +8,19 @@
 
 ---
 
+## Contact Information
+
+Rob Savage 
+
+rob.savage@me.com
+
+[LinkedIn](https://www.linkedin.com/in/robsavage/)
+
+
+[Tableau Public](https://public.tableau.com/profile/rob.savage)
+
+---
+
 ## Project Description
 
 The purpose of the project was to use the [data](https://www.citibikenyc.com/system-data) and make inferences and visualizations using Tableau.
